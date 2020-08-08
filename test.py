@@ -2,9 +2,14 @@
 """
 Created on Sat Aug  8 11:10:58 2020
 
-@author: scott
 """
 
-#Here is a test
-#Testing
-print('this is confusing')
+# Here is a test
+# Testing 1, 2, 3, 4
+print('This is not confusing!')
+print('it does not hurt my head!!!!!')
+
+# I'm adding some stuff here in between
+
+print('I hate this!!!')
+print('This branch hates me!!!!!!!!!!!!!!!!!!!!!')
