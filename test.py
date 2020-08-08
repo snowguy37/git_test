@@ -6,7 +6,10 @@ Created on Sat Aug  8 11:10:58 2020
 
 # Here is a test
 # Testing 1, 2, 3, 4
-print('this is confusing')
-print('it hurts!!!!!')
+print('This is not confusing!')
+print('it does not hurt my head!!!!!')
+
+# I'm adding some stuff here in between
+
 print('I hate this!!!')
-print('This branch hates me!!!!!!!!!!!!!!!!!!!!!1')
+print('This branch hates me!!!!!!!!!!!!!!!!!!!!!')
