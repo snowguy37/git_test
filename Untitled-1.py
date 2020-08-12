@@ -10,17 +10,14 @@ o = np.ones(24)
 
 
 # %%
-print(o): print(o)
-
-# %% [markdown]
-# ## Here I add text!
-
-# %%
-#Awesome!
-
-
 print(o)
 
 
-fs
+# %%
 
+#TODO: Do crap
+
+# %%
+
+
+# %%
